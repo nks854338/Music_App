@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="index.css">
+    <title>Music Player</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- first box start -->
+        <div class="musicapp" id="musicapps">
+            <div class="info">
+                <div class="menu" id="menus">
+                    <i class="fa-solid fa-align-left" style="color: #566573;"></i>
+                </div>
+            </div>
+            <div class="image">
+                <img src="https://3.bp.blogspot.com/-IJBjxv-sZsA/Ulwh1bTkwFI/AAAAAAAASYQ/c44HMxQ7xR0/s1600/Official+Google+Music+App+For+iOS.png"
+                    alt="Image" class="img">
+                <h2 id="songName">Song title</h2>
+                <p id="singerName">artist name</p>
+            </div>
+            <div class="action">
+                <audio id="audio">
+                    <source src="#" type="audio/mp3" auto>
+                </audio>
+                <br>
+                <input type="range" value="0" id="ShowSong">
+            </div>
+            <div class="option">
+                <div id="backward">
+                    <i class="fa-solid fa-backward-fast" style="color: #566573;"></i>
+                </div>
+                <div id="play">
+                    <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+                </div>
+                <div id="forward">
+                    <i class="fa-solid fa-forward-fast" style="color: #566573;"></i>
+                </div>
+            </div>
+        </div>
+        <!-- first box end -->
+
+        <!-- second box start -->
+        <div class="hide musicapp" id="musicapp">
+            <div class="info">
+                <div class="menu" id="menu">
+                    <i class="fa-solid fa-align-right" style="color: #566573;"></i>
+                </div>
+            </div>
+
+            <div class="con">
+                <div class="songList" id="song1">
+                    <div class="song">
+                        <div class="name">Lagja gale ki phir ye</div>
+                        <div class="singer">Lata Mangeshkar</div>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+                    </div>
+                </div>
+
+                <div class="songList" id="song2">
+                    <div class="song">
+                        <div class="name">Lo safar shuru ho gaya</div>
+                        <div class="singer">Jubin Nautiyal</div>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-circle-play" style="color: #566573">
+                        </i>
+                    </div>
+                </div>
+
+                <div class="songList" id="song3">
+                    <div class="song">
+                        <div class="name" >Mere mehboob qayamat hogi</div>
+                        <div class="singer">Kishore kumar</div>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+                    </div>
+                </div>
+
+                <div class="songList" id="song4">
+                    <div class="song">
+                        <div class="name">Pyar deewana hota hai</div>
+                        <div class="singer">Kishore kumar</div>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+                    </div>
+                </div>
+
+                <div class="songList" id="song5">
+                    <div class="song">
+                        <div class="name">Ye raate ye mausam</div>
+                        <div class="singer">Sanam, Simran Sehgal</div>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- second box end -->
+    </div>
+</body>
+<script src="index.js"></script>
+
+</html>
