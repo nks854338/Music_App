@@ -156,11 +156,11 @@ ShowSong.addEventListener('click', () => {
 
 function changeSongTiming() {
     forward.addEventListener('click', () => {
-        audio.currentTime += 5;
+        audio.currentTime += 1;
     })
 
     backward.addEventListener('click', () => {
-        audio.currentTime -= 5;
+        audio.currentTime -= 1;
     })
 }
 
