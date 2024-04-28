@@ -97,7 +97,7 @@
         }
 
         .option div:hover , .icon:hover {
-            background-color: #F16821;
+            background-color: #e45710;
             box-shadow: 0px 0px 10px #f166218b;
         }
 
@@ -105,7 +105,7 @@
             font-size: 4.5vmin;
             height: 7.5vmin;
             width: 7.5vmin;
-            background-color: #F16821;
+            background-color: #e45710;
         }
 
         /* second box css */
@@ -140,7 +140,7 @@
             font-size: 3.2vmin;
             height: 6.5vmin;
             width: 6.5vmin;
-            background-color: #F16821;
+            background-color: #e45710;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -168,7 +168,7 @@
                 display: flex;
                 justify-content: center;
                 align-items: center;
-                height: 86vh;
+                height: 80vh;
                 width: 100%;
                 background-color: transparent;
             }
@@ -177,7 +177,7 @@
                 margin: 0;
                 border-radius: 0;
                 border: none;
-                height: 85vh;
+                height: 80vh;
                 width: 100%;
             }
 
@@ -189,67 +189,69 @@
             }
 
             .image {
-                margin-bottom: 15vmin;
+                margin-bottom: 10vmin;
             }
 
             .image img {
-                height: 65vmin;
+                height: 70vmin;
                 margin: 10vmin;
             }
 
             .image h2 {
-                font-size: 6vmin;
+                font-size: 7vmin;
             }
 
             .image p {
-                font-size: 3.2vmin;
+                font-size: 4vmin;
             }
 
             .option {
-                padding: 15vmin 2px;
+                padding: 30px 2px;
                 display: flex;
                 align-items: center;
                 justify-content: space-evenly;
-                font-size: 15px;
                 border-radius: 50%;
             }
 
             .option div {
                 border-radius: 50%;
                 background-color: #2A363B;
-                height: 8vmin;
-                width: 8vmin;
+                font-size: 18px;
+                height: 42px;
+                width: 42px;
             }
 
             #play {
                 font-size: 8vmin;
-                height: 15vmin;
-                width: 15vmin;
-                background-color: #F16821;
+                height: 75px;
+                width: 75px;
+                background-color: #e45710;
             }
 
             .con {
                 display: grid;
                 justify-content: space-evenly;
+                margin-right: 5%;
             }
 
             .songList {
-                height: 50px;
-                margin-bottom: 8%;
+                height: 80px;
+                width: 95%;
+                margin-bottom: 5%;
             }
 
             .song .name {
-                font-size: 3.5vmin
+                font-size: 20px;
             }
 
             .song .singer {
-                font-size: 2.4vmin;
+                font-size: 15px;
             }
 
             .songList .icon {
-                font-size: 4.5vmin;
-                height: 9vmin;
-                width: 9vmin;
+                font-size: 30px;
+                height: 50px;
+                width: 50px;
             }
 
         }
