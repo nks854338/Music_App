@@ -30,8 +30,8 @@ let songlist = [
     ["songs/mere_mehboob_qayamat_hogi.mp3", "Mere mehboob qayamat hogi", "Kishore kumar"],
     ["songs/pyar_deewana_hota_hai_mastana_hota_hai.mp3", "Pyar deewana hota hai", "Kishore kumar"],
     ["songs/ye_raate_ye_mausam.mp3", "Ye raate ye mausam", "Sanam, Simran Sehgal"],
-    ["songs/Ek_Ajnabee_Haseena_Se.mp3", "Ek Ajnabee Haseena Se", "Sanam, Simran Sehgal"],
-    ["songs/Kya_Kua_Tera_Wada.mp3", "Kya Kua Tera Wada", "Sanam, Simran Sehgal"]
+    ["songs/Ek_Ajnabee_Haseena_Se.mp3", "Ek Ajnabee Haseena Se", "Kishore kumar"],
+    ["songs/Kya_Kua_Tera_Wada.mp3", "Kya Kua Tera Wada", "Mohammed Rafi"]
 ];
 
 
