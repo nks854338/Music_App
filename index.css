@@ -96,6 +96,7 @@ input[type=range]::-webkit-slider-thumb {
     width: 5vmin;
 }
 
+<<<<<<< HEAD
 .option div:hover , .icon:hover {
     background-color: #e45710;
     box-shadow: 0px 0px 10px #f166218b;
@@ -107,6 +108,19 @@ input[type=range]::-webkit-slider-thumb {
     width: 7.5vmin;
     background-color: #e45710;
 }
+=======
+        .option div:hover , .icon:hover {
+            background-color: #e45710;
+            box-shadow: 0px 0px 10px #f166218b;
+        }
+
+        #play {
+            font-size: 4.5vmin;
+            height: 7.5vmin;
+            width: 7.5vmin;
+            background-color: #e45710;
+        }
+>>>>>>> bf6fe1ee3e4ef600ff95baf5242aa51458423f13
 
 /* second box css */
 
@@ -136,6 +150,7 @@ input[type=range]::-webkit-slider-thumb {
     font-size: 1.6vmin;
 }
 
+<<<<<<< HEAD
 .songList .icon {
     font-size: 3.2vmin;
     height: 6.5vmin;
@@ -146,6 +161,18 @@ input[type=range]::-webkit-slider-thumb {
     align-items: center;
     border-radius: 50%;
 }
+=======
+        .songList .icon {
+            font-size: 3.2vmin;
+            height: 6.5vmin;
+            width: 6.5vmin;
+            background-color: #e45710;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+        }
+>>>>>>> bf6fe1ee3e4ef600ff95baf5242aa51458423f13
 
 .con {
     height: 60vmin;
@@ -168,6 +195,7 @@ input[type=range]::-webkit-slider-thumb {
         background-color: #566573;
     }
 
+<<<<<<< HEAD
     .container {
         display: flex;
         justify-content: center;
@@ -184,6 +212,24 @@ input[type=range]::-webkit-slider-thumb {
         height: 80vh;
         width: 100%;
     }
+=======
+            .container {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 80vh;
+                width: 100%;
+                background-color: transparent;
+            }
+
+            .musicapp {
+                margin: 0;
+                border-radius: 0;
+                border: none;
+                height: 80vh;
+                width: 100%;
+            }
+>>>>>>> bf6fe1ee3e4ef600ff95baf5242aa51458423f13
 
     .menu {
         font-size: 17px;
@@ -192,6 +238,7 @@ input[type=range]::-webkit-slider-thumb {
         margin: 2vmin;
     }
 
+<<<<<<< HEAD
     .image {
         margin-bottom: 10vmin;
     }
@@ -266,3 +313,72 @@ input[type=range]::-webkit-slider-thumb {
     }
 
 }
+=======
+            .image {
+                margin-bottom: 10vmin;
+            }
+
+            .image img {
+                height: 70vmin;
+                margin: 10vmin;
+            }
+
+            .image h2 {
+                font-size: 7vmin;
+            }
+
+            .image p {
+                font-size: 4vmin;
+            }
+
+            .option {
+                padding: 30px 2px;
+                display: flex;
+                align-items: center;
+                justify-content: space-evenly;
+                border-radius: 50%;
+            }
+
+            .option div {
+                border-radius: 50%;
+                background-color: #2A363B;
+                font-size: 18px;
+                height: 42px;
+                width: 42px;
+            }
+
+            #play {
+                font-size: 8vmin;
+                height: 75px;
+                width: 75px;
+                background-color: #e45710;
+            }
+
+            .con {
+                display: grid;
+                justify-content: space-evenly;
+                margin-right: 5%;
+            }
+
+            .songList {
+                height: 80px;
+                width: 95%;
+                margin-bottom: 5%;
+            }
+
+            .song .name {
+                font-size: 20px;
+            }
+
+            .song .singer {
+                font-size: 15px;
+            }
+
+            .songList .icon {
+                font-size: 30px;
+                height: 50px;
+                width: 50px;
+            }
+
+        }
+>>>>>>> bf6fe1ee3e4ef600ff95baf5242aa51458423f13
