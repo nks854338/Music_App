@@ -6,7 +6,7 @@ Welcome to EchoTune, a JavaScript-based music app that brings your favorite tune
 * 🎵 Playback Controls: Enjoy smooth playback with intuitive controls.
 * 🎨 Responsive Design: Optimized for all devices, providing a consistent experience across screens.
   ### 🚀 Project Demo
-Check out the live demo of EchoTune here [Visit Site]([https://example.com](https://nks854338.github.io/Music_App/)) / [Visit Site](https://aesthetic-baklava-898647.netlify.app).
+Check out the live demo of EchoTune here [Visit Site](https://nks854338.github.io/Music_App/)) / [Visit Site](https://aesthetic-baklava-898647.netlify.app).
 
 ## 🛠️ Tech Stack
 * HTML: For structuring the app.
@@ -39,28 +39,6 @@ Check out the live demo of EchoTune here [Visit Site]([https://example.com](http
 ### Phone Screen Size
 
 <div  style="display: flex; justify-content: space-evenly; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/9dc8f2f9-a899-4140-b6bc-179011ea9d2d" alt="Phone Screenshot Page1" height="500px" margin-right="50px"/>
+  <img src="https://github.com/user-attachments/assets/9dc8f2f9-a899-4140-b6bc-179011ea9d2d" alt="Phone Screenshot Page1" height="500px"/>
   <img src="https://github.com/user-attachments/assets/0d41158f-6822-4b66-b00e-9d48bcb51478" alt="Phone Screenshot Page2" height="500px" />
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🎵🎧 Feel the vibes with our music app. 🎶✨
