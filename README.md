@@ -30,14 +30,18 @@ Check out the live demo of EchoTune here [Visit Site]([https://example.com](http
    - Simply open the `index.html` file in your web browser to start using EchoTune.
    
 ## 📸 Screenshots
+
 ### Laptop Screen Size
-(![Laptop Screenshot Page2](https://github.com/user-attachments/assets/6a67beaf-f65c-491b-a00e-47f76e9a6a35)
-![Laptop Screenshop Page1](https://github.com/user-attachments/assets/97986447-5252-4db8-a52a-fdaf37d90197)
+
+![Laptop Screenshot Page2](https://github.com/user-attachments/assets/6a67beaf-f65c-491b-a00e-47f76e9a6a35)
+![Laptop Screenshot Page1](https://github.com/user-attachments/assets/97986447-5252-4db8-a52a-fdaf37d90197)
+
 ### Phone Screen Size
-![Phone Screenshot page1](https://github.com/user-attachments/assets/9dc8f2f9-a899-4140-b6bc-179011ea9d2d)
-![Phone Screen Page2](https://github.com/user-attachments/assets/0d41158f-6822-4b66-b00e-9d48bcb51478)
 
-
+<div>
+  <img src="https://github.com/user-attachments/assets/9dc8f2f9-a899-4140-b6bc-179011ea9d2d" alt="Phone Screenshot Page1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/0d41158f-6822-4b66-b00e-9d48bcb51478" alt="Phone Screenshot Page2" width="45%" />
+</div>
 
 
 
