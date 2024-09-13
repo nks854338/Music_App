@@ -1,12 +1,13 @@
 # 🎶 EchoTune
 Welcome to EchoTune, a JavaScript-based music app that brings your favorite tunes to life! This app is designed with interactive features such as playlists and playback controls, offering a seamless and enjoyable music experience.
 
+Check out the live demo of EchoTune here [Visit Site](https://genuine-gumption-978bf6.netlify.app/).
+
 ## 🌟 Features
 * Interactive Playlists: Create and manage your playlists effortlessly.
 * 🎵 Playback Controls: Enjoy smooth playback with intuitive controls.
 * 🎨 Responsive Design: Optimized for all devices, providing a consistent experience across screens.
   ### 🚀 Project Demo
-Check out the live demo of EchoTune here [Visit Site](https://nks854338.github.io/Music_App/)) / [Visit Site](https://genuine-gumption-978bf6.netlify.app/).
 
 ## 🛠️ Tech Stack
 * HTML: For structuring the app.
