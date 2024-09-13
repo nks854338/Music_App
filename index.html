@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <title>Music Player</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- first box start -->
+      <div class="musicapp" id="musicapps">
+        <div class="info">
+          <div class="menu" id="menus">
+            <i class="fa-solid fa-align-left" style="color: #566573"></i>
+          </div>
+        </div>
+        <div class="image">
+          <img src="songs/logo.jpg" alt="Image" class="img" />
+          <h2 id="songName">Song title</h2>
+          <p id="singerName">artist name</p>
+        </div>
+        <div class="action">
+          <audio id="audio">
+            <source src="#" type="audio/mp3" auto />
+          </audio>
+          <br />
+          <input type="range" value="0" id="ShowSong" />
+        </div>
+        <div class="option">
+          <div id="backward">
+            <i class="fa-solid fa-backward-fast" style="color: #566573"></i>
+          </div>
+          <div id="play">
+            <i class="fa-solid fa-circle-play" style="color: #566573"></i>
+          </div>
+          <div id="forward">
+            <i class="fa-solid fa-forward-fast" style="color: #566573"></i>
+          </div>
+        </div>
+      </div>
+      <!-- first box end -->
+
+      <!-- second box start -->
+      <div class="hide musicapp" id="musicapp">
+        <div class="info">
+          <div class="menu" id="menu">
+            <i class="fa-solid fa-align-right" style="color: #566573"></i>
+          </div>
+        </div>
+
+        <div class="con" id="songsContainer"></div>
+      </div>
+      <!-- second box end -->
+    </div>
+  </body>
+  <script src="index.js"></script>
+</html>
