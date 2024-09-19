@@ -228,7 +228,7 @@ let songlist = [
   {
     songTitle: "Ek Ajnabee Haseena Se",
     songSrc: "songs/Ek_Ajnabee_Haseena_Se.mp3",
-    singer: "Sanam, Simran Sehgal",
+    singer: "Kishore kumar",
   },
   {
     songTitle: "Mere mehboob qayamat hogi",
@@ -243,7 +243,7 @@ let songlist = [
   {
     songTitle: "Kya Kua Tera Wada",
     songSrc: "songs/Kya_Kua_Tera_Wada.mp3",
-    singer: "Sanam, Simran Sehgal",
+    singer: "Mohammed Rafi and Sushma Shreshta",
   },
   {
     songTitle: "Pyar deewana hota hai",
