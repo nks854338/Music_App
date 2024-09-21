@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎶 EchoTune
 Welcome to EchoTune, a JavaScript-based music app that brings your favorite tunes to life! This app is designed with interactive features such as playlists and playback controls, offering a seamless and enjoyable music experience.
 
@@ -8,7 +7,7 @@ Check out the live demo of EchoTune here [Visit Site](https://genuine-gumption-9
 * Interactive Playlists: Create and manage your playlists effortlessly.
 * 🎵 Playback Controls: Enjoy smooth playback with intuitive controls.
 * 🎨 Responsive Design: Optimized for all devices, providing a consistent experience across screens.
-  ### 🚀 Project Demo
+### 🚀 Project Demo
 
 ## 🛠️ Tech Stack
 * HTML: For structuring the app.
@@ -44,9 +43,7 @@ Check out the live demo of EchoTune here [Visit Site](https://genuine-gumption-9
   <img src="https://github.com/user-attachments/assets/9dc8f2f9-a899-4140-b6bc-179011ea9d2d" alt="Phone Screenshot Page1" height="500px"/>
   <img src="https://github.com/user-attachments/assets/0d41158f-6822-4b66-b00e-9d48bcb51478" alt="Phone Screenshot Page2" height="500px" />
 </div>
-=======
 https://nks22bsc10085.github.io/Music_App/
 
 
 🎵🎧 Feel the vibes with our music app. 🎶✨
->>>>>>> 1bac694 (App updated)
