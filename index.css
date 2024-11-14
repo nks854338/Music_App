@@ -175,6 +175,7 @@ input[type=range]::-webkit-slider-thumb {
         height: 80vh;
         width: 100%;
         background-color: transparent;
+        max-height: 100vh;
     }
 
     .musicapp {
@@ -248,7 +249,7 @@ input[type=range]::-webkit-slider-thumb {
     .songList {
         height: 80px;
         width: 85%;
-        margin-bottom: 4%;
+        margin-bottom: 3%;
     }
 
     .song .name {
