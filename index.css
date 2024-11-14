@@ -163,7 +163,7 @@ input[type=range]::-webkit-slider-thumb {
 
 
 
-@media(max-width:500px) {
+@media(max-width:600px) {
     body {
         background-color: #566573;
     }
@@ -252,11 +252,11 @@ input[type=range]::-webkit-slider-thumb {
     }
 
     .song .name {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .song .singer {
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .songList .icon {
